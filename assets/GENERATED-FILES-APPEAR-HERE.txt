@@ -1,3 +1,0 @@
-This folder starts blank.
-
-After you run PREP-MEDIA.bat or PREP-AND-BUILD.bat, optimized event files will appear here automatically.
